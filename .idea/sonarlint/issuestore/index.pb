@@ -227,8 +227,6 @@ Gsrc/main/java/j_Dynamic_programming/f_최대_점수_구하기/Main.java,0/6/06
 Msrc/main/java/j_Dynamic_programming/f_최대_점수_구하기/pablo/Main.java,1/2/12b2d4824f4092d7370373571ced269366fc48a4
 e
 5src/main/java/a_String/b_대소문자변환/Main.java,f/d/fde6ddaa61b12347216f345522b952b5ce345c59
-d
-4src/main/java/a_String/c_문장_속_단어/Main.java,a/b/abc9ac048908c2cf4daa2b851780d8c8ef419a09
 c
 3src/main/java/a_String/d_단어_뒤집기/Main.java,0/e/0eac0810b0a682f7cb3e5db5d9bed778186b5a6d
 v
