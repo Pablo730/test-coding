@@ -1,0 +1,16 @@
+
+m	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡êœ8¿¨Åî•1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸‘¶À8¿¨Åî•1
+T
+java:S1135"2Complete the task associated to this TODO comment.(æ§¥£ùÿÿÿÿ8È¨Åî•1
+j	java:S100
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡êœ8È¨Åî•1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹“çûÿÿÿÿ8É¨Åî•1
+J
+java:S1172"(Remove this unused method parameter "i".(¹“çûÿÿÿÿ8É¨Åî•1
+@
+java:S1659("#Declare "right" on a separate line.(çùà¶8Ê¨Åî•1
+L
+java:S1197/"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8Ë¨Åî•1
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(Ş®½›8Ë¨Åî•1

@@ -1,0 +1,21 @@
+
+9
+java:S1643="Use a StringBuilder instead.(âÙ›î8Öèÿï–1
+9
+java:S1643@"Use a StringBuilder instead.(¡¹ÎÆ8Öèÿï–1
+9
+java:S1643C"Use a StringBuilder instead.(ğ™ğ¤8Öèÿï–1
+9
+java:S1643F"Use a StringBuilder instead.(âÙ›î8Öèÿï–1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÎŠŒğùÿÿÿÿ8×èÿï–1
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(äŒì’üÿÿÿÿ8Óéÿï–1
+V
+java:S1854"9Remove this useless assignment to local variable "check".(ëµÎà8Óéÿï–1
+I
+java:S1125)"'Remove the unnecessary boolean literal.(â¸Ššûÿÿÿÿ8Õéÿï–1
+]	java:S1250"<This block of commented-out lines of code should be removed.(µÇÒøÿÿÿÿ8Öéÿï–1
+U	java:S106:"9Replace this use of System.out or System.err by a logger.(¢ñ§×8Öéÿï–1
+T	java:S106I"9Replace this use of System.out or System.err by a logger.(¸ØïU8×éÿï–1
+U	java:S106J"9Replace this use of System.out or System.err by a logger.(ô¤„å8×éÿï–1
+T	java:S106K"9Replace this use of System.out or System.err by a logger.(¸ØïU8×éÿï–1

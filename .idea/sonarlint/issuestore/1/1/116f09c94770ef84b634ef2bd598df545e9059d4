@@ -1,0 +1,13 @@
+
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(È‹¯8‚ƒÈºš1
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(½úùå8„ƒÈºš1
+q
+java:S1104"OMake vex a static final constant or non-public and provide accessors if needed.(ªŠÊ¯ıÿÿÿÿ8…ƒÈºš1
+r
+java:S1104"PMake cost a static final constant or non-public and provide accessors if needed.(Ş £ûÿÿÿÿ8…ƒÈºš1
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›„’
+v
+java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(ø§Â8‡„Èºš1
+U	java:S106."9Replace this use of System.out or System.err by a logger.(ô¤„å8’„Èºš1

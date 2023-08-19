@@ -1,0 +1,14 @@
+
+r	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶â­•ùÿÿÿÿ8ù’ôœ•1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(åà¢§üÿÿÿÿ8ù’ôœ•1
+r
+java:S1149	"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›þöýÿÿÿÿ8ˆ”ôœ•1
+r
+java:S1149#"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›þöýÿÿÿÿ8ˆ”ôœ•1
+O
+java:S1135"2Complete the task associated to this TODO comment.(ºÍìø8ˆ”ôœ•1
+t
+java:S3776!"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ûÊŸ’ÿÿÿÿÿ8Š”ôœ•1
+H
+java:S1481""+Remove this unused "answer" local variable.(åí¢é8Š”ôœ•1
+T	java:S106A"9Replace this use of System.out or System.err by a logger.(Ã™ò|8Œ”ôœ•1

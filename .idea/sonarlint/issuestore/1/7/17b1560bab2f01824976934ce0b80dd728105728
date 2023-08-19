@@ -1,0 +1,18 @@
+
+r	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶â­•ùÿÿÿÿ8”Äñî”1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ë‘å–8•Äñî”1
+O
+java:S1135"2Complete the task associated to this TODO comment.(ØÃ»¡8¤Äñî”1
+O
+java:S1135"2Complete the task associated to this TODO comment.(ú‚8¤Äñî”1
+T
+java:S1135"2Complete the task associated to this TODO comment.(œ¿üêùÿÿÿÿ8¤Äñî”1
+C
+java:S1659"!Declare "max" on a separate line.(Õ¥Èÿÿÿÿÿÿ8¤Äñî”1
+T
+java:S1135"2Complete the task associated to this TODO comment.(ª¨êüüÿÿÿÿ8Œ»ôî”1
+T
+java:S1135"2Complete the task associated to this TODO comment.(¢ÜŸıÿÿÿÿ8ªùøî”1
+T
+java:S1135"2Complete the task associated to this TODO comment.(š÷ùıûÿÿÿÿ8 ·ıî”1
+U	java:S106."9Replace this use of System.out or System.err by a logger.(áòÔæ8¦Äñî”1

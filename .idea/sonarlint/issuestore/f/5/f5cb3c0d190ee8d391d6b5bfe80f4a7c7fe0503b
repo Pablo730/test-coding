@@ -1,0 +1,18 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÃš´ÿÿÿÿÿ8Ê¯í”•1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÃš´ÿÿÿÿÿ8Ê¯í”•1
+m	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­û8Ê¯í”•1
+m	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­û8Ê¯í”•1
+r	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ƒ²óøÿÿÿÿ8Ê¯í”•1
+r	java:S117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶â­•ùÿÿÿÿ8Ê¯í”•1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²„Å‘8Ë¯í”•1
+T
+java:S1135"2Complete the task associated to this TODO comment.(ü¨òõÿÿÿÿÿ8°í”•1
+J
+java:S1481"-Remove this unused "checkAna" local variable.(¡ó‹8‘°í”•1
+]	java:S125"<This block of commented-out lines of code should be removed.(åĞ›ùÿÿÿÿ8‘°í”•1
+X
+java:S1854d"6Remove this useless assignment to local variable "k1".(Ëğ¹ïúÿÿÿÿ8¯ò”•1
+Z	java:S106_"9Replace this use of System.out or System.err by a logger.(¨–¼üÿÿÿÿ8“°í”•1
+I
+java:S1481d"'Remove this unused "k1" local variable.(Ëğ¹ïúÿÿÿÿ8×ò”•1

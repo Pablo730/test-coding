@@ -1,0 +1,8 @@
+
+r	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶â­•ùÿÿÿÿ8˜”û••1
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜üªƒ
+T
+java:S1135"2Complete the task associated to this TODO comment.(æ§¥£ùÿÿÿÿ8Üéû••1
+‰
+java:S1130E"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8Ö”û••1
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(ç°Ä°ùÿÿÿÿ8Ú”û••1

@@ -1,0 +1,14 @@
+
+^
+java:S4973	"<Strings and Boxed types should be compared using "equals()".(Ëé›òüÿÿÿÿ8âøÄµ—1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÅìÓ£8ãøÄµ—1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8óøÄµ—1
+X
+java:S18541"6Remove this useless assignment to local variable "l2".(Üö€Ïÿÿÿÿÿ8¦æ€é—1
+X	java:S125%"<This block of commented-out lines of code should be removed.(çììŞ8¢šäè—1
+P
+java:S30201".Pass "new String[0]" as argument to "toArray".(Üö€Ïÿÿÿÿÿ8²é„é—1
+I
+java:S14811"'Remove this unused "l2" local variable.(Üö€Ïÿÿÿÿÿ8§æ€é—1
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(¼à»«8¢šäè—1
+X	java:S1255"<This block of commented-out lines of code should be removed.(›òöÌ8¸ãè—1

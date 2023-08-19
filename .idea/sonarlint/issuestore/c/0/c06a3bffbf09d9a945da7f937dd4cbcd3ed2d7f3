@@ -1,0 +1,16 @@
+
+r	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶â­•ùÿÿÿÿ8Žç„Î•1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ìèæµýÿÿÿÿ8Žç„Î•1
+J
+java:S1172"(Remove this unused method parameter "n".(öÍ—Ôüÿÿÿÿ8äç„Î•1
+O
+java:S1135"2Complete the task associated to this TODO comment.(¥À±å8«íìÎ•1
+T
+java:S1135"2Complete the task associated to this TODO comment.(úÔ³þþÿÿÿÿ8äç„Î•1
+>
+java:S1659"!Declare "sum" on a separate line.(öç…«8æç„Î•1
+n
+java:S3776)"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(íòÝ8æç„Î•1
+@
+java:S1659*"#Declare "right" on a separate line.(£ÊÇç8Ôù¢Î•1
+U	java:S106R"9Replace this use of System.out or System.err by a logger.(—ý‹„8å¾¬Î•1

@@ -1,0 +1,13 @@
+
+u	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(²±Ü8áéŠ’˜1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªúø£8áéŠ’˜1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªúø£8áéŠ’˜1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±îĞĞ8áéŠ’˜1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ªúø£8šêŠ’˜1
+[
+java:S1854	"9Remove this useless assignment to local variable "queue".(íÍ†üÿÿÿÿ8šêŠ’˜1
+L
+java:S1481	"*Remove this unused "queue" local variable.(íÍ†üÿÿÿÿ8›êŠ’˜1
+J	java:S108")Either remove or fill this block of code.(ÄçĞıÿÿÿÿ8œêŠ’˜1
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(œ±Œ¾øÿÿÿÿ8œêŠ’˜1

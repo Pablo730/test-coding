@@ -1,0 +1,8 @@
+
+P
+java:S1121".Extract the assignment out of this expression.(¿†ßıÿÿÿÿ8Èàêµš1
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£ş«Ÿ
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¥Õ¦ùÿÿÿÿ8Øàêµš1
+o	java:S100	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü¢”Òşÿÿÿÿ8Úàêµš1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(è€óÜıÿÿÿÿ8İàêµš1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ú¨±™8İàêµš1

@@ -1,0 +1,11 @@
+
+P
+java:S1121".Extract the assignment out of this expression.(Œ‡©…ıÿÿÿÿ8öÈ¸š1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïü·ùÿÿÿÿ8öÈ¸š1
+r	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ¾Öûÿÿÿÿ8öÈ¸š1
+m	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÔ¬É8öÈ¸š1
+r	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÿŞüÿÿÿÿ8öÈ¸š1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(è–˜8öÈ¸š1
+{
+java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(ßûíÎøÿÿÿÿ8úÈ¸š1
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(ØÑ×Íıÿÿÿÿ8Í£¢¹š1

@@ -1,0 +1,14 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ë´×¼8¨Àâï—1
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ý·¾¹þÿÿÿÿ8õÀâï—1
+]
+java:S1854H";Remove this useless assignment to local variable "tickets".(ã¨Žøøÿÿÿÿ8¿¹Íð—1
+^
+java:S1854G"<Remove this useless assignment to local variable "solution".(ËÊüþÿÿÿÿ8À¹Íð—1
+O
+java:S1481G"-Remove this unused "solution" local variable.(ËÊüþÿÿÿÿ8À¹Íð—1
+N
+java:S1481H",Remove this unused "tickets" local variable.(ã¨Žøøÿÿÿÿ8À¹Íð—1
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(µ¿‘ƒùÿÿÿÿ8«­Ìð—1
+]	java:S125K"<This block of commented-out lines of code should be removed.(çâÀÎýÿÿÿÿ8À¹Íð—1

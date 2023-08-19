@@ -1,0 +1,28 @@
+
+u	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(àØî8«× ˜1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×à…şÿÿÿÿ8¬× ˜1
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(ïˆë»ûÿÿÿÿ8è× ˜1
+]	java:S125 "<This block of commented-out lines of code should be removed.(–ú®áøÿÿÿÿ8é× ˜1
+D
+java:S19050"'Remove this unnecessary cast to "long".(Ì¶„â8é× ˜1
+D
+java:S19050"'Remove this unnecessary cast to "long".(Ì¶„â8é× ˜1
+D
+java:S1905<"'Remove this unnecessary cast to "long".(Âöç§8é× ˜1
+D
+java:S1905<"'Remove this unnecessary cast to "long".(Âöç§8é× ˜1
+D
+java:S1905?"'Remove this unnecessary cast to "long".(ÊÌÔŠ8é× ˜1
+D
+java:S1905?"'Remove this unnecessary cast to "long".(ÊÌÔŠ8é× ˜1
+W
+java:S1854V"5Remove this useless assignment to local variable "a".(¤ŠĞûÿÿÿÿ8û©˜1
+^
+java:S1854O"<Remove this useless assignment to local variable "solution".(ËÊüşÿÿÿÿ8ê× ˜1
+O
+java:S1481O"-Remove this unused "solution" local variable.(ËÊüşÿÿÿÿ8ê× ˜1
+Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(®ƒç¨ÿÿÿÿÿ8ê× ˜1
+H
+java:S1481V"&Remove this unused "a" local variable.(¤ŠĞûÿÿÿÿ8ı©˜1
+X	java:S125X"<This block of commented-out lines of code should be removed.(¨ÜµÖ8ë× ˜1

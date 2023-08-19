@@ -1,0 +1,11 @@
+
+r	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶â­•ùÿÿÿÿ8–»ôø”1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾‡¤Ž8—»ôø”1
+]	java:S125"<This block of commented-out lines of code should be removed.(’¬åâøÿÿÿÿ8›»ôø”1
+T
+java:S1135"2Complete the task associated to this TODO comment.(Ÿ®Äüÿÿÿÿ8œ»ôø”1
+T
+java:S1135"2Complete the task associated to this TODO comment.(’¬åâøÿÿÿÿ8œ»ôø”1
+B
+java:S1659" Declare "p2" on a separate line.(ƒ›¨âøÿÿÿÿ8œ»ôø”1
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(–íúþÿÿÿÿ8Ÿ»ôø”1

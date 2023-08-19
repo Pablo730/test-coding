@@ -1,0 +1,25 @@
+
+r	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶â­•ùÿÿÿÿ8ú¢‹÷”1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ë‡ øúÿÿÿÿ8û¢‹÷”1
+]	java:S125"<This block of commented-out lines of code should be removed.(Âá·¡øÿÿÿÿ8ÿ¢‹÷”1
+T
+java:S1135"2Complete the task associated to this TODO comment.(´¹µÓüÿÿÿÿ8ÿ¢‹÷”1
+O
+java:S1135"2Complete the task associated to this TODO comment.(áð“á8ÿ¢‹÷”1
+T
+java:S1135"2Complete the task associated to this TODO comment.(ò¾çÔþÿÿÿÿ8ÿ¢‹÷”1
+T
+java:S1135"2Complete the task associated to this TODO comment.(Âá·¡øÿÿÿÿ8ÿ¢‹÷”1
+T
+java:S1135	"2Complete the task associated to this TODO comment.(¾¡ýéúÿÿÿÿ8ÿ¢‹÷”1
+T
+java:S1135"2Complete the task associated to this TODO comment.(Õ«Ù´ûÿÿÿÿ8ÿ¢‹÷”1
+T
+java:S1135"2Complete the task associated to this TODO comment.(Å°œ•ÿÿÿÿÿ8ÿ¢‹÷”1
+T
+java:S1135"2Complete the task associated to this TODO comment.(¾ÍÍ½øÿÿÿÿ8ÿ¢‹÷”1
+T
+java:S1135"2Complete the task associated to this TODO comment.(«ýÍøÿÿÿÿ8€£‹÷”1
+T
+java:S1135"2Complete the task associated to this TODO comment.(œ òÇûÿÿÿÿ8€£‹÷”1
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(‡¯øº8‚£‹÷”1

@@ -1,0 +1,10 @@
+
+r	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶â­•ùÿÿÿÿ8ªœı”1
+^
+java:S4973!"<Strings and Boxed types should be compared using "equals()".(šÚá¶úÿÿÿÿ8€İ¾‘•1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êšú¡8«œı”1
+T
+java:S1135"2Complete the task associated to this TODO comment.(æ§¥£ùÿÿÿÿ8šŸœı”1
+V
+java:S2864 "4Iterate over the "entrySet" instead of the "keySet".(òî¡Ñÿÿÿÿÿ8Šİ¾‘•1
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(¨–¼üÿÿÿÿ8±œı”1

@@ -1,0 +1,12 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±‹Ύ¨8ύΊΣτ•1
+r	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶β­•ωÿÿÿÿ8ώΊΣτ•1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ΚΧ…Άύÿÿÿÿ
+i
+java:S1845"LRename method "dfs" to prevent any misunderstanding/clash with method "DFS".(ΨΤσ»8ΊΞ’υ•1
+`
+java:S1659">Declare "n" and all following declarations on a separate line.(Χ•υ—ψÿÿÿÿ8ƒ»Στ•1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±‹Ύ¨8„»Στ•1
+X
+java:S2696	"6Make the enclosing method "static" or remove this set.(ÿ‚υ‘ύÿÿÿÿ8…»Στ•1
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(τ¤„ε8»Στ•1

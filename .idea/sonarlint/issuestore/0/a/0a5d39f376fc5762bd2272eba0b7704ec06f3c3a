@@ -1,0 +1,13 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€‚Çğ8—òŒ¦•1
+r	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶â­•ùÿÿÿÿ8˜òŒ¦•1
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ĞäàÎ
+h	java:S116	"LRename this field "Q" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©…•Ì8¿òŒ¦•1
+T
+java:S1135"2Complete the task associated to this TODO comment.(æ§¥£ùÿÿÿÿ8ÑÖ¦•1
+j	java:S100
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òğÑ8ÀòŒ¦•1
+o	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Û…Ñûÿÿÿÿ8ê³ê•1
+t
+java:S3776#"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¶Û…Ñûÿÿÿÿ8ß²ê•1
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(éûÌÎ8ÂòŒ¦•1

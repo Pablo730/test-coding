@@ -1,0 +1,7 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—øãıÿÿÿÿ8ºúÅ¿Ÿ1
+j
+java:S3824"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(¦ö¥çùÿÿÿÿ8¡İ‹ïŸ1
+V
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(úâÕÃøÿÿÿÿ8ƒûÅ¿Ÿ1
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(Ñáüşÿÿÿÿ8„ûÅ¿Ÿ1
