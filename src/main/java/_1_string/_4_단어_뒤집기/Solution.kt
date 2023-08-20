@@ -3,11 +3,7 @@ package _1_string._4_단어_뒤집기
 import java.util.*
 
 fun solution (stringList: List<String>): List<String> {
-	val answer: MutableList<String> = ArrayList(stringList.size)
-	for (string in stringList) {
-		answer.add(string.reversed())
-	}
-	return answer
+	return stringList.map { s: String -> s.reversed() }
 }
 fun main(): Unit {
 	val scanner: Scanner = Scanner(System.`in`)
@@ -20,3 +16,9 @@ fun main(): Unit {
 		println(string)
 	}
 }
+/*
+3
+good
+Time
+Big
+* */
